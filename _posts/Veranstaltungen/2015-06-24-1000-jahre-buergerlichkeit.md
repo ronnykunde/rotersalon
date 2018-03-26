@@ -1,0 +1,20 @@
+---
+bg: "11350425_955427684497525_2423308795294304855_n.jpg"
+layout: post
+title:  "1000 Jahre Bürgerlichkeit"
+subtitle: "Zur Geschichtspolitik der Stadt Leipzig zwischen liberalem Anspruch und Standortlogik"
+crawlertitle: "1000 Jahre Bürgerlichkeit"
+summary: "1000 Jahre Bürgerlichkeit"
+date:   2015-06-24
+categories: Veranstaltungen
+tags: 'veranstaltungen'
+linked: "texte/1000-jahre-buergerlichkeit/"
+---
+
+In diesem Jahr begeht die Stadt Leipzig ihr 1000-jähriges Stadtjubiläum. In der offiziellen Ankündigung der Jubiläumsfeierlichkeiten wird die Stadtentwicklung als ungebrochene Erfolgsgeschichte dargestellt: „1000 Jahre Leipzig sind 1000 Jahre Vielfalt. 1000 Jahre Leipzig, das sind 1000 Jahre herausragende wirtschaftliche, kulturelle und bürgerliche Tradition. Als ein wesentliches geistiges Zentrum […] mit dem selbstbewussten Bürgertum einer Handelsstadt herrschte in Leipzig über Jahrhunderte ein Klima, in dem sich die schönen Künste […] in unvergleichlicher Weise entfalten konnten.“ Die homogenisierende Erzählung folgt der Leitlinie des Stadtmarketings und bringt 1000 Jahre Stadtgeschichte im Rahmen des Veranstaltungsprogramms auf den Nenner eines Konsumangebots. Leipzig präsentiert sich als Standort, der für Touristen, Zuzügler und Unternehmen gleichermaßen attraktiv ist. Diese Logik war bereits bei vergangenen Jubiläen wie etwa dem 25. Jahrestag der Friedlichen Revolution zu beobachten. Die Erinnerung an die Bewusstwerdung politischer Souveränität gegen den Staat („Wir sind das Volk“) verschwand beim letztjährigen „Lichtfest“ hinter einer Inszenierung, die aus Installationen „international agierender Künstler“ auf „3,6 Kilometer“ Länge Innenstadtring und „25.000 Kerzen auf dem Augustusplatz“ bestand.
+
+Der Eventcharakter der hiesigen Geschichtspolitik verwässert den liberalen Anspruch der Stadt zur profanen Standortwerbung. Doch bleibt das bürgerliche Selbstbild der Stadt nicht völlig folgenlos. So gilt Leipzig gegenüber der Landeshauptstadt Dresden in der Tat als „links“, Naziaufmärsche werden hier mit Rückdeckung aus dem Rathaus blockiert, und gegen Legida demonstrierten 30.000 Bürger. Linke Kulturprojekte werden seit Jahrzehnten gefördert, Wohnprojekte und Wagenplätze bekommen ideelle, teilweise auch materielle Unterstützung. Auch in Sachen Asylpolitik gibt sich die Stadtpolitik human; der Stadtrat beschloss zumindest vor drei Jahren, Flüchtlinge zukünftig dezentral unterzubringen, auch wenn es seitdem an der Umsetzung mangelt. Im Vergleich der Ostmetropolen ist Leipzig, die gleichbleibend hohen Zuzugszahlen belegen es, tatsächlich weltoffener und damit lebenswerter als andere.
+
+Was bedeutet dies für die Perspektive linker Kritik? Müsste es dieser dann überhaupt noch darum gehen, der städtischen (Geschichts-)Politik ihre Beschönigung restaurativ-konservativer Tendenzen, ihre mangelnde Erinnerung an „rechte“ Verbrechen, ihr Vergessen der Kämpfe für soziale Gleichheit oder die Nichtrepräsentation der Unterprivilegierten vorzuwerfen? Oder wäre es vielmehr notwendig, den liberalen Anspruch der Stadt gegen die Praxis inhaltsleerer Eventisierung zu verteidigen, ja seinen politischen Kern überhaupt erst einmal aus den Schichten von Happening und Spektakel herauszuschälen? Ginge es in der jetzigen Situation also nicht eigentlich darum, bürgerliche Liberalität einzufordern, diese am Grad ihrer Umsetzung zu messen, und damit auch die Voraussetzungen linker Politik zu bewahren?
+
+Diskutiert werden sollen diese Fragen in einem moderierten Gespräch mit Prof. Dr. Ulrich Brieler, der als Leiter des Referats Wissenspolitik der Stadt Leipzig und als Lehrbeauftragter am Institut für Philosophie der Universität Leipzig sowohl mit den Leitlinien und Entstehungsprozessen städtischer Politik als auch mit einem gesellschaftskritischen Zugang zur Geschichtspolitik vertraut ist.

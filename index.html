@@ -1,0 +1,37 @@
+---
+bg: "DSC_3186-copy.jpg"
+layout: default
+crawlertitle: "Roter Salon"
+title: "Roter Salon"
+summary: "Roter Salon im Conne Island"
+---
+
+<h1>Der Rote Salon</h1>
+
+Der Rote Salon ist eine Veranstaltungsreihe im Conne Island, die sein Programm in regelmäßiger Folge um Veranstaltungen wie szenische Lesungen, Gesprächsabende, politisches Kabarett, linkes Theater, Politshows und andere mehr erweitern soll. Die Reihe möchte dem Conne Island damit ein Angebot zusätzlich zu klassischen Politveranstaltungen und seiner traditionell subkulturellen Ausrichtung erschließen. Die dafür gewählte Form unterscheidet sich bewusst von gewohnten Formaten: Die Veranstaltungen in Salonatmosphäre beabsichtigen, die Beschäftigung mit tagesaktuellen wie historischen Themen mit einem hohen Maß an Informations- und Unterhaltungswert zu verknüpfen.
+<br><br>
+Kontakt zum Salon:
+rotersalon@conne-island.de
+	
+	{% for post in site.categories.Veranstaltungen limit: 1 %}
+		{% if post.date  %}
+		{% endif %}
+	{% endfor %}
+
+    <div class="post-links">
+      {% for post in site.categories.Veranstaltungen limit: 1 %}
+        <a class="link-to-post" href="{{ post.url | relative_url}}">
+          <span class="link-to-post__next">Vergangene Veranstaltung</span>
+          <span class="link-to-post__title">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</span>
+        </a>
+      {% endfor %}
+
+      {% for post in site.categories.Texte limit: 1 %}
+        <a class="link-to-post" href="{{ post.url | relative_url}}">
+          <span class="link-to-post__prev">Neuer Text</span>
+          <span class="link-to-post__title">{{ post.title }}</span>
+        </a>
+      {% endfor %}
+    </div>
+
+

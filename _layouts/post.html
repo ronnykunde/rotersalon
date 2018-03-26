@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="post">
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  <h3 class="post-title">{{ page.subtitle }}</h3>
+
+  <p class="post-meta">
+    <time datetime="{{ page.date | date: "%d.%m.%Y" }}">{{ page.date | date: "%d.%m.%Y" }}</time>
+  </p>
+
+  <div class="post-content">
+
+    {{ content }}
+
+    <div class="post-links">
+      {% if page.linked %}
+        <a class="link-to-post" href="{{ page.linked | relative_url}}">
+          <span class="link-to-post__next">&#10535; &nbsp;Text zur Veranstaltung</span>
+          <span class="link-to-post__title">Titel</span>
+        </a>
+      {% endif %}
+    </div>
+
+  </div>
+
+</article>

@@ -1,0 +1,22 @@
+---
+bg: "2015-09-29-RoterSalon-FlyerA6-Druck-f-1.jpg"
+layout: post
+title:  "»Für immer Punk möchte ich sein…«"
+subtitle: "Oder wozu braucht es heute noch linke Zentren?"
+crawlertitle: "»Für immer Punk möchte ich sein…«"
+summary: "»Für immer Punk möchte ich sein…«"
+date:   2015-09-29
+categories: Veranstaltungen
+tags: 'veranstaltungen'
+linked: "texte/fuer-immer-punk-moechte-ich-sein/"
+---
+
+Linke Zentren verstehen sich als Freiräume für selbstbestimmte und alternative Lebensformen. Im Selbstverständnis stellen diese Zentren Orte politischer Gegenöffentlichkeit dar, stehen für nichtkommerzieller Kultur und kritische politische Diskussionen. Zudem erheben sie den Anspruch, sich zumindest partiell der kapitalistischen Verwertungslogik zu entziehen.
+
+Seit der »Jugendzentrumsbewegung« der 1970er Jahre und der Hochzeit der autonomen Szene in den 80ern bildet der Kampf um politische und soziale Freiräume ein Kontinuitätselement linker Praxis. Autonomen Zentren inszenierten sich als Orte des gelebten Widerstand gegen das System. Inwiefern diese Kämpfe tatsächlichen sozialen Widersprüchen oder ideologischen Verblendungen entsprangen, lässt sich nur vor dem Hintergrund des historischen Kontext entschlüsseln. Angesichts der globalen Niederlage des Sozialismus  und der Diskreditierung linker Gesellschaftskritik wurden diese Orte in den 90ern zu Schlupflöchern linker Debatten. Darüber hinaus waren sie insbesondere im Osten Kristallisationspunkte des antifaschistischen Widerstands. Im »Aufstand der Anständigen« stand die Antifa und mit ihr die Alternativen Zentren auf der Seite der zivilgesellschaftlichen Sieger gegen den auf Alltagshandeln, latente Einstellungen, einige »national befreite Zonen« in der Provinz und Splitterparteien zurückgedrängten Neonazismus. Allerdings waren damit der Antifa-Linken neben politischer Relevanz auch Momente einer klaren kulturpolitischen Abgrenzung abhanden gekommen.
+
+Die 1990er Jahre waren auch die Zeit der Poplinken. Zum damaligen Zeitpunkt wurde Popkultur zwar nicht mehr als per se rebellisch, jedoch immer noch ziemlich optimistisch als umkämpftes Feld begriffen, auf dem Subversion und linke Politik möglich waren. Doch trübten sich die Hoffnungen auf das Subversionsmodell Pop schnell ein. Im Osten wirkte zwar die kulturelle Opposition als Speerspitze nachholender Modernisierung, ansonsten erwies sich der Anspruch auf Abgrenzung vom System als Selbstbetrug. Subkulturelle Auflehnungsgesten transzendierten nicht mehr die herrschende Kultur, sondern waren zu ihrem Produkt geworden. Der Mainstream präsentiert sich »minderheitlich« in den rebellischen Inszenierungen von Subkulturen. Die Schattenseite der Pluralisierung und Flexibilisierung der Lebensstile ist die Tendenz zur Selbstoptimierung und Auflösung der Grenzen zwischen Beruflichem und Privaten im Rahmen einer ganzheitlichen Produktivierung. Lifestyle und soziokulturelle Erfahrungen werden in der modernen Leistungsgesellschaft zu Kompetenzen. Die Reproduktion der Arbeitskraft beschränkt sich nicht mehr auf den Freizeitbereich, sondern dringt in den Arbeitsprozess selbst vor.
+
+Im Lichte dieser Diagnose wirken Linke Zentren heute angepasst und arriviert, zumindest dort, wo es sie gibt. Im No-Legida-Deutschland und gerade im 1000-Jahre-Party-Leipzig bilden sie keinen Kontrapunkt. Als Publikumsmagnet für engagierte Bildungsgewinner, wirken linke Zentren nicht als Widerpart, sondern als Baustein einer staatlich formierten Zivilgesellschaft, die Imperative der herrschenden Wirtschaftsordnung durchsetzt. Doch selbst, wenn in den linken Zentren die ökonomischen Zwänge und ideologischen Integrationspotenziale erkannt werden, bietet das noch keinen Ausweg. Aber ebenso wenig ist es eine Lösung, die herrschenden Zustände zu verklären.
+
+Um jenseits von vergangenheits- oder gegenwartsbezogenen Romantisierungen die Relevanz linker Zentren zu bestimmen, lädt der Rote Salon zum Podiumsgespräch mit Uli Krug, Redakteur der Zeitschrift Bahamas, Tanja Russack, Geschäftsführerin des Conne Island in Leipzig und Roger Behrens, Mitherausgeber des Buchmagazins Testcard. Der Rote Salon möchte mit seinen Gästen zu einer Diskussion anregen, die über eingespielte Denkgewohnheiten hinausreicht und die Praxis linker Zentren im Lichte einer zeitgemäßen Gesellschaftsanalyse bewertet.
